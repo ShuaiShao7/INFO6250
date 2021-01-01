@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="lab8part1:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/lab8part1_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="lab8part1" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="lab8part1/web/Web2" />
+      <element id="javaee-facet-resources" facet="lab8part1/web/Web" />
+    </root>
+  </artifact>
+</component>

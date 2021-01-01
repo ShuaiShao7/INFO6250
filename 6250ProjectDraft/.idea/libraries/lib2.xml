@@ -1,0 +1,40 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lab8part1/target/lab8part1-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet.jsp.jstl-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab8part1/target/lab8part1-1.0-SNAPSHOT/WEB-INF/lib/spring-context-support-5.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab8part1/target/lab8part1-1.0-SNAPSHOT/WEB-INF/lib/spring-webflux-5.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab8part1/target/lab8part1-1.0-SNAPSHOT/WEB-INF/lib/spring-core-5.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab8part1/target/lab8part1-1.0-SNAPSHOT/WEB-INF/lib/reactive-streams-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab8part1/target/lab8part1-1.0-SNAPSHOT/WEB-INF/lib/spring-orm-5.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab8part1/target/lab8part1-1.0-SNAPSHOT/WEB-INF/lib/jsp-api-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab8part1/target/lab8part1-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-5.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab8part1/target/lab8part1-1.0-SNAPSHOT/WEB-INF/lib/spring-web-5.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab8part1/target/lab8part1-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-5.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab8part1/target/lab8part1-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-5.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab8part1/target/lab8part1-1.0-SNAPSHOT/WEB-INF/lib/spring-aspects-5.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab8part1/target/lab8part1-1.0-SNAPSHOT/WEB-INF/lib/spring-messaging-5.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab8part1/target/lab8part1-1.0-SNAPSHOT/WEB-INF/lib/protobuf-java-3.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab8part1/target/lab8part1-1.0-SNAPSHOT/WEB-INF/lib/spring-context-indexer-5.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab8part1/target/lab8part1-1.0-SNAPSHOT/WEB-INF/lib/aspectjweaver-1.9.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab8part1/target/lab8part1-1.0-SNAPSHOT/WEB-INF/lib/spring-test-5.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab8part1/target/lab8part1-1.0-SNAPSHOT/WEB-INF/lib/spring-context-5.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab8part1/target/lab8part1-1.0-SNAPSHOT/WEB-INF/lib/spring-websocket-5.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab8part1/target/lab8part1-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-5.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab8part1/target/lab8part1-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-5.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab8part1/target/lab8part1-1.0-SNAPSHOT/WEB-INF/lib/jstl-api-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab8part1/target/lab8part1-1.0-SNAPSHOT/WEB-INF/lib/spring-instrument-5.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab8part1/target/lab8part1-1.0-SNAPSHOT/WEB-INF/lib/servlet-api-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab8part1/target/lab8part1-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab8part1/target/lab8part1-1.0-SNAPSHOT/WEB-INF/lib/commons-dbutils-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab8part1/target/lab8part1-1.0-SNAPSHOT/WEB-INF/lib/spring-oxm-5.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab8part1/target/lab8part1-1.0-SNAPSHOT/WEB-INF/lib/spring-jcl-5.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab8part1/target/lab8part1-1.0-SNAPSHOT/WEB-INF/lib/spring-jms-5.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab8part1/target/lab8part1-1.0-SNAPSHOT/WEB-INF/lib/reactor-core-3.3.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab8part1/target/lab8part1-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab8part1/target/lab8part1-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-8.0.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

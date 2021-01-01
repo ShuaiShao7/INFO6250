@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+    <class dynamic-insert="false" dynamic-update="false" mutable="true" name="edu.neu.project.pojo.Member"
+           optimistic-lock="version" polymorphism="implicit" select-before-update="false" table="member">
+        <id name="id" type="integer">
+            <column name="Member_ID"/>
+            <generator class="native"/>
+        </id>
+        <property name="fName" type="java.lang.String">
+            <column name="First_Name"></column>
+        </property>
+        <property name="lName" type="java.lang.String">
+            <column name="Last_Name"></column>
+        </property>
+        <property name="street" type="java.lang.String">
+            <column name="Street"></column>
+        </property>
+        <property name="city" type="java.lang.String">
+            <column name="City"></column>
+        </property>
+        <property name="state" type="java.lang.String">
+            <column name="State"></column>
+        </property>
+        <property name="zip" type="java.lang.String">
+            <column name="Zip"></column>
+        </property>
+        <property name="password" type="java.lang.String">
+            <column name="Password"></column>
+        </property>
+<!--        <property name="sid" type="java.lang.Integer">-->
+<!--            <column name="Supervisor_ID"></column>-->
+<!--        </property>-->
+
+        <many-to-one name="supervisor" class="edu.neu.project.pojo.Supervisor"
+                     column="Supervisor_ID" cascade="all"/>
+    </class>
+</hibernate-mapping>
